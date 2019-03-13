@@ -11,18 +11,18 @@ Refer the handout and report for more details.
 `Autoencoder results (on CUFS)`
 
 <p align="center">
- <img src="./assets/autoe_results.png" width="100%">
+ <img src="./assets/autoe_results.png" width="50%">
 </p>
 
 `Variational autoencoder results (on CUFS)`
 
 <p align="center">
- <img src="./assets/vae_results_cufs.jpg" width="100%">
+ <img src="./assets/vae_results_cufs.jpg" width="50%">
 </p>
 
 
 `Variational autoencoder results (on CelebA)`
 
 <p align="center">
- <img src="./assets/vae_results_celeba.jpg" width="100%">
+ <img src="./assets/vae_results_celeba.jpg" width="50%">
 </p>
