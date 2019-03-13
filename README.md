@@ -7,6 +7,9 @@ The goal of this project is to explore autoencoders and variational autoencoders
 
 Refer the handout and report for more details.
 
+Also checkout the results of Generative adversarial networks applied to the same task [here](https://github.com/prakveer/Celebrity_generation_GANs) 
+
+
 ## Results
 `Autoencoder results (on CUFS)`
 
